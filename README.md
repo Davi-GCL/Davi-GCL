@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- Currently learning: Python, HTML, CSS, JavaScript
 <!--
 **Davi-GCL/Davi-GCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
