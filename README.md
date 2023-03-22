@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Currently learning: PHP, HTML, CSS, JavaScript
+- Currently learning: PHP, MySql, JavaScript, BootStrap;
 <!--
 **Davi-GCL/Davi-GCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
