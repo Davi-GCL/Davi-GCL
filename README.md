@@ -1,5 +1,6 @@
 ### Hi there 👋
-- Currently learning: PHP, MySql, JavaScript, BootStrap;
+- Currently learning: React.js, MySql, BootStrap;
+- Technologies: HTML, CSS, JS, BootStrap, PHP, MySql, Python.
 <!--
 **Davi-GCL/Davi-GCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
