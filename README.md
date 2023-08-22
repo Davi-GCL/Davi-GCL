@@ -1,6 +1,6 @@
 ### Hi there 👋
-- Currently learning: .NET ,React.js, Sql, BootStrap;
-- Technologies: HTML, CSS, JS, BootStrap, PHP, Sql, Python.
+- Currently learning: .NET , Angular, Sql, BootStrap;
+- Technologies: HTML, CSS, JS, BootStrap, PHP, Sql, React.js.
 <!--
 **Davi-GCL/Davi-GCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
