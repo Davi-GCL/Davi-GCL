@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Currently learning: .NET , Angular;
-- Technologies: Angular, .NET, HTML, CSS, JS, BootStrap, PHP, Sql, React.js.
+- Technologies: Angular 16, .NET, HTML, CSS, JS, BootStrap, PHP, Sql, React.js.
 <!--
 **Davi-GCL/Davi-GCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
